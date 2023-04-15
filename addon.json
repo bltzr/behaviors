@@ -1,0 +1,11 @@
+{
+  "src": "<url to the .zip file created by the release script>",
+  "name": "Behaviors Generator",
+  "raw_name": "behaviors",
+  "version": "1.0",
+  "kind": "Control/Generators",
+  "short": "Parameter Behaviors Generator",
+  "long": "This addon provides a Parameter Behaviors Generator",
+  "small": "https://raw.githubusercontent.com/OSSIA/score-addon-tutorial/master/Deployment/icon.png",
+  "key": "CF70671E-DC37-409D-B842-E223CEA9DB56"
+}
